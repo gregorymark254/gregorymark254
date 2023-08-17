@@ -1,4 +1,4 @@
-![image](https://github.com/gregorymark254/gregorymark254/assets/98938152/0eab4285-c439-4442-81a9-dc813081d965)<h2 align="left">Hi 👋! My name is Gregory Mark and I'm a Full stack developer, from Nairobi,Kenya.</h2>
+<h2 align="left">Hi 👋! My name is Gregory Mark and I'm a Full stack developer, from Nairobi,Kenya.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="10" src="[https://i.imgflip.com/65efzo.gif](https://i.postimg.cc/5ymMYsPQ/greg.jpg)"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
